@@ -1,5 +1,8 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="starter-template text-center py-5 px-3">
+    <h1>About</h1>
+    <p class="lead">
+      About page.
+    </p>    
   </div>
 </template>
