@@ -5,6 +5,12 @@
 npm install
 ```
 
+
+### Compiles and hot-reloads for development
+```
+npm install --save @popperjs/core
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
